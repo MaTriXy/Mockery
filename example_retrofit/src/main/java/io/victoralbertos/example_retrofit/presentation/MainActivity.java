@@ -18,7 +18,7 @@ import io.victoralbertos.example_retrofit.domain.Repo;
 import io.victoralbertos.example_retrofit.domain.User;
 import java.io.IOException;
 import java.util.List;
-import library.recycler_view.OkRecyclerViewAdapter;
+import miguelbcr.ok_adapters.recycler_view.OkRecyclerViewAdapter;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
